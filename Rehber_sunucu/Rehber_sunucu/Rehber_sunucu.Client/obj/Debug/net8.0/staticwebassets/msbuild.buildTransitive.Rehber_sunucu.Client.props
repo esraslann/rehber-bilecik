@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Rehber_sunucu.Client.props" />
+</Project>

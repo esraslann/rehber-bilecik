@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\esra\\Desktop\\Rehber_sunucu\\Rehber_sunucu\\Rehber_sunucu.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\esra\\Desktop\\Rehber_sunucu\\Rehber_sunucu\\Rehber_sunucu.Client\\obj\\Debug\\net8.0\\compressed\\ew1k332mso.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\esra\\Desktop\\Rehber_sunucu\\Rehber_sunucu\\Rehber_sunucu.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\esra\\Desktop\\Rehber_sunucu\\Rehber_sunucu\\Rehber_sunucu.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Rehber_sunucu.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Rehber_sunucu.Client.props",
+      "PackagePath": "build\\Rehber_sunucu.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Rehber_sunucu.Client.props",
+      "PackagePath": "buildMultiTargeting\\Rehber_sunucu.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Rehber_sunucu.Client.props",
+      "PackagePath": "buildTransitive\\Rehber_sunucu.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

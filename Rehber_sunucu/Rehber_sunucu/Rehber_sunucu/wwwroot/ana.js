@@ -1,0 +1,4 @@
+﻿$(function () {
+   
+    $(".bolumsec").select2();
+});
